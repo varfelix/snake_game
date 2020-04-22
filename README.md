@@ -2,4 +2,4 @@
 python snake game, my 1st game
 
 
-Install numphy pygame before trying this program
+Install numpy and pygame before trying this program
